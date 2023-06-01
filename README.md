@@ -32,5 +32,5 @@ https://user-images.githubusercontent.com/5175814/201839486-34122781-d0cb-4b62-8
 
 
 **Website to Apply Patch:** https://www.marcrobledo.com/RomPatcher.js/  
-
-There are two patches, the normal patch and one with the 6% Level Increase applied for Kaizo and Survival Players  
+**Download:** [Faster Emerald](https://github.com/DrMaple/Faster-Emerald/raw/main/Faster.Emerald.v1.2.1.-.The.Bike.Update.ips) or [Faster Emerald with 6% Level Increase](https://github.com/DrMaple/Faster-Emerald/blob/main/Faster.Emerald.v1.2.1.-.The.Bike.Update.with.6.Percent.Increase.ips)  
+There are two patches, one is the normal patch and one is a patch with the 6% Level Increase applied for Kaizo and Survival Players  
