@@ -1,7 +1,11 @@
 # Faster-Emerald  
 A Patch for Pokemon Emerald that adds quality of life improvements for IronMON  
   
-### **Everything in this patch has already been approved by the IronMON Council**  
+**NEW**
+* Two Nurses have been added. One to the west of Petalburg City and the other to the Northeast of Rustboro City on Route 116
+* Fishing is now faster and more consistent
+* There is now an NPC in Oldale that increases your Pokemon's Friendship! The NPC is located in the northwest building
+* Hidden items are now marked on the ground (Thank you Swoadz!)
   
 What this patch changes:  
 1. Most of the Birch intro has been removed  
@@ -32,5 +36,12 @@ https://user-images.githubusercontent.com/5175814/201839486-34122781-d0cb-4b62-8
 
 
 **Website to Apply Patch:** https://www.marcrobledo.com/RomPatcher.js/  
-**Download:** [Faster Emerald](https://github.com/DrMaple/Faster-Emerald/raw/main/Faster.Emerald.v1.2.1.-.The.Bike.Update.ips) or [Faster Emerald with 6% Level Increase](https://github.com/DrMaple/Faster-Emerald/blob/main/Faster.Emerald.v1.2.1.-.The.Bike.Update.with.6.Percent.Increase.ips)  
-There are two patches, one is the normal patch and one is a patch with the 6% Level Increase applied for Kaizo and Survival Players  
+**Download:** [Faster Emerald v1.3.2](https://github.com/DrMaple/Faster-Emerald/blob/main/Faster.Emerald.v1.3.2.-.The.Friendship.and.Xs.Update.with.6.Percent.Increase.ips)
+
+<details>
+  <summary>Click here if you're playing Standard or Ultimate IronMON (not Kaizo, Survival, or Super Kaizo) and use this patch instead</summary>  
+
+This patch doesn't include anything new from v1.3.2, but it doesn't have the 6% level increase that's required with the other rulesets  
+[Faster Emerald v1.2.1](https://github.com/DrMaple/Faster-Emerald/raw/main/Faster.Emerald.v1.2.1.-.The.Bike.Update.ips)  
+
+</details>
